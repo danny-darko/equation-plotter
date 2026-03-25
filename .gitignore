@@ -8,6 +8,7 @@ __pycache__/
 # PyInstaller output
 src/build/
 src/dist/
+*.spec
 
 # IDE
 .idea/
