@@ -17,8 +17,8 @@ Interactive equation plotter built for classroom use, helping teachers demonstra
 - Sample function dropdown for quick classroom demos
 - Runs fully offline — no internet connection required
 
-![App Screenshot](assets/main-screen.png)
-![App Screenshot](assets/simultaneous-equation-example.png)
+![App Screenshot](assets/main-screen.jpg)
+![App Screenshot](assets/simultaneous-equation-example.jpg)
 ---
 
 ## Tech Stack
